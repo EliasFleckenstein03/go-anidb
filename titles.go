@@ -1,7 +1,7 @@
 package anidb
 
 import (
-	"github.com/Kovensky/go-anidb/titles"
+	"github.com/EliasFleckenstein03/go-anidb/titles"
 )
 
 // Searches for the given anime name, case sensitive.

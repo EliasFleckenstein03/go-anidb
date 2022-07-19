@@ -3,7 +3,7 @@ package anidb
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Kovensky/go-anidb/misc"
+	"github.com/EliasFleckenstein03/go-anidb/misc"
 	"image"
 	"strconv"
 	"time"

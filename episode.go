@@ -1,7 +1,7 @@
 package anidb
 
 import (
-	"github.com/Kovensky/go-anidb/misc"
+	"github.com/EliasFleckenstein03/go-anidb/misc"
 	"time"
 )
 

@@ -2,7 +2,7 @@ package anidb
 
 import (
 	"encoding/json"
-	"github.com/Kovensky/go-anidb/misc"
+	"github.com/EliasFleckenstein03/go-anidb/misc"
 	"strconv"
 	"time"
 )

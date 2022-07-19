@@ -1,7 +1,7 @@
 package anidb
 
 import (
-	"github.com/Kovensky/go-anidb/udp"
+	"github.com/EliasFleckenstein03/go-anidb/udp"
 	"sync"
 	"time"
 )

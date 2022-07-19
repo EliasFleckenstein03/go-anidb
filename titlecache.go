@@ -2,7 +2,7 @@ package anidb
 
 import (
 	"bytes"
-	"github.com/Kovensky/go-anidb/titles"
+	"github.com/EliasFleckenstein03/go-anidb/titles"
 	"io"
 	"net/http"
 	"os"

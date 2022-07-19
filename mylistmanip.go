@@ -1,7 +1,7 @@
 package anidb
 
 import (
-	"github.com/Kovensky/go-fscache"
+	"github.com/EliasFleckenstein03/go-fscache"
 	"strconv"
 	"time"
 )

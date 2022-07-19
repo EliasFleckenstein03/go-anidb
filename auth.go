@@ -4,7 +4,7 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/rand"
-	"github.com/Kovensky/go-anidb/udp"
+	"github.com/EliasFleckenstein03/go-anidb/udp"
 	"io"
 	"runtime"
 )

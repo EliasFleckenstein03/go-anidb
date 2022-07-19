@@ -2,9 +2,9 @@ package anidb
 
 import (
 	"fmt"
-	"github.com/Kovensky/go-anidb/misc"
-	"github.com/Kovensky/go-anidb/udp"
-	"github.com/Kovensky/go-fscache"
+	"github.com/EliasFleckenstein03/go-anidb/misc"
+	"github.com/EliasFleckenstein03/go-anidb/udp"
+	"github.com/EliasFleckenstein03/go-fscache"
 	"image"
 	"regexp"
 	"sort"

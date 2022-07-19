@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"flag"
 	"fmt"
-	"github.com/Kovensky/go-anidb"
-	ed2khash "github.com/Kovensky/go-ed2k"
+	"github.com/EliasFleckenstein03/go-anidb"
+	ed2khash "go.felesatra.moe/hash/ed2k"
 	"io"
 	"os"
 )

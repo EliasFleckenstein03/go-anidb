@@ -2,7 +2,7 @@ package titles_test
 
 import (
 	"fmt"
-	"github.com/Kovensky/go-anidb/titles"
+	"github.com/EliasFleckenstein03/go-anidb/titles"
 	"os"
 	"testing"
 )
